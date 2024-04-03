@@ -26,7 +26,7 @@ Feel free to explore more in my repositories!
 
 ## 📫 Let's Connect
 
-- LinkedIn: LinkedIn(https://www.linkedin.com/in/dhruval0254)
+- LinkedIn: https://www.linkedin.com/in/dhruval0254
 <!--- Twitter: [@YourTwitterHandle](link-to-twitter)-->
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
